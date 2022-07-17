@@ -1,0 +1,7 @@
+LICENSE.txt
+README.md
+setup.py
+ZeroxKeyLog.egg-info/PKG-INFO
+ZeroxKeyLog.egg-info/SOURCES.txt
+ZeroxKeyLog.egg-info/dependency_links.txt
+ZeroxKeyLog.egg-info/top_level.txt
