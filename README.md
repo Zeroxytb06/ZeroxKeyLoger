@@ -1,2 +1,2 @@
-# ZeroxKeyLoger
-Its Key Loger
+# Zerox
+Its .pyw file for key log
